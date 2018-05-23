@@ -12,6 +12,7 @@ gem 'coffee-rails', '4.2.2'
 gem 'jquery-rails', '4.3.1'
 gem 'turbolinks',   '5.1.0'
 gem 'jbuilder',     '2.7.0'
+gem 'sentry-raven', '~> 2.7'
 gem 'simple_form'
 gem 'sdoc',         '1.0.0', group: :doc
 
