@@ -6,7 +6,7 @@ ruby '2.3.5'
 
 gem 'rails',        '~> 5.0.0'
 gem 'sass-rails',   '5.0.7'
-gem 'bootstrap',    '~> 4.0.0'
+gem 'bootstrap',    '~> 4.3.1'
 gem 'uglifier',     '4.1.6'
 gem 'coffee-rails', '4.2.2'
 gem 'jquery-rails', '4.3.1'
